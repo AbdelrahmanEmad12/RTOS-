@@ -1,6 +1,6 @@
 # RTOS: Real-Time Operating System
-MinimumLaxity First/Least Slack Time
-Earliest Deadline First (EDF)
-Deadline-Monotonic Assignment (DMA)
-Rate Monotonic Assignment (RMA)
+MinimumLaxity First/Least Slack Time <br />
+Earliest Deadline First (EDF) <br />
+Deadline-Monotonic Assignment (DMA) <br />
+Rate Monotonic Assignment (RMA) <br />
 
